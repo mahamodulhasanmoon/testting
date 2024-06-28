@@ -1,5 +1,5 @@
 {
-  "name": "@brainicSoftrapid-expresskit",
+  "name": "rapid-expresskit-testing",
   "version": "1.0.0",
   "description": "Expresskit",
   "main": "index.js",
@@ -61,10 +61,10 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/mahamodulhsanmoon/rapid-expresskit.git"
+    "url": "git+https://github.com/mahamodulhsanmoon/testting.git"
   },
   "bugs": {
-    "url": "https://github.com/mahamodulhsanmoon/rapid-expresskit/issues"
+    "url": "https://github.com/mahamodulhsanmoon/testting/issues"
   },
-  "homepage": "https://github.com/mahamodulhsanmoon/rapid-expresskit#readme"
+  "homepage": "https://github.com/mahamodulhsanmoon/testting#readme"
 }

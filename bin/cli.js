@@ -1,7 +1,8 @@
 #!/usr/bin/env node
 /* eslint-disable no-console */
 
-import  { execSync } from 'child_process';
+// eslint-disable-next-line no-undef, @typescript-eslint/no-var-requires
+const  { execSync } = require('child_process');
 
 const runCommand = (command) => {
   try {
